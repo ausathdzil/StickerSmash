@@ -20,7 +20,7 @@
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-      "package": "com.anonymous.StickerSmash"
+      "package": "com.yourname.stickersmash"
     },
     "web": {
       "output": "static",
@@ -51,6 +51,12 @@
         "projectId": "95336629-ddc9-47c4-b6d8-7d9a75d68208"
       }
     },
-    "owner": "ausath"
+    "owner": "ausath",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/95336629-ddc9-47c4-b6d8-7d9a75d68208"
+    }
   }
 }
